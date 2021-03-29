@@ -1,0 +1,10 @@
+StudentId,Subject,Slot,TeacherId
+s1,Music,2021-03-21 15:00,t3
+s2,Public Speaking,2021-03-21 16:00,t4
+s3,Music,2021-03-21 15:00,t3
+s4,Music,2021-03-21 15:00,t2
+s5,Music,2021-03-22 16:00,t3
+s6,Public Speaking,2021-03-22 19:00,None
+s7,Music,2021-03-21 11:00,t3
+s8,Music,2021-03-22 16:00,t2
+s9,Public Speaking,2021-03-21 16:00,t4
